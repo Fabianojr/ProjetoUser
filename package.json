@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Joseffe10/ProjetoUser.git"
+    "url": "git+https://github.com/Fabianojr/ProjetoUser.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Joseffe10/ProjetoUser/issues"
+    "url": "https://github.com/Fabianojr/ProjetoUser/issues"
   },
-  "homepage": "https://github.com/Joseffe10/ProjetoUser#readme",
+  "homepage": "https://github.com/Fabianojr/ProjetoUser#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
